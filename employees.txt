@@ -1,0 +1,4 @@
+1110, Hassan Ali , CS, MS, 5, 70000
+1120, Zia Mehmood, MGT, PhD, 10, 125000
+1022, Rehmat Shah, Bio, Master, 7, 50000
+1022, Waqas Ali, MassCom, MS, 3, 60000
